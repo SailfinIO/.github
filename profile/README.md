@@ -1,6 +1,6 @@
 # Sailfin.io - AI-Driven Security for Modern Applications 🔐
 
-![Sailfin Banner](link_to_your_banner_image_here)
+![Sailfin Banner](light_head.png)
 
 Welcome to **Sailfin**, your partner in enhancing application security through AI-driven authentication and authorization solutions. Our mission is to provide intelligent OIDC/OAuth2 platforms that streamline and secure your authentication processes, protecting your applications against evolving threats.
 
